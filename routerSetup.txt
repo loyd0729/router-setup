@@ -425,4 +425,11 @@ Router0(config-line)#end
 Router0#
 %SYS-5-CONFIG_I: Configured from console by console
 
+Router0>enable
+Password: 
+Router0#copy running-config startup-config
+Destination filename [startup-config]? 
+Building configuration...
+[OK]
+
 Router0#logout

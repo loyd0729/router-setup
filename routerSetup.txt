@@ -200,3 +200,4 @@ Internet  10.1.1.2                0   00E0.F970.5701  ARPA   GigabitEthernet0/0/
 Router0#end
 Translating "end"...domain server (255.255.255.255)
 % Unknown command or computer name, or unable to find computer address
+Router0#logout
